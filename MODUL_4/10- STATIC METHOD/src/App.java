@@ -35,11 +35,11 @@ public class App {
 
     public static void main(String[] args) {
        // membuat objek
-       Player player1 = new Player("LY");
-       Player player2 = new Player("LYE");
-       Player player3 = new Player("LYN");
-       Player player4 = new Player("CILL");
-       Player player5 = new Player("CILLL");
+       Player player1 = new Player("Selki");
+       Player player2 = new Player("Debei");
+       Player player3 = new Player("Usyami");
+       Player player4 = new Player("Eby");
+       Player player5 = new Player("Kyy");
        
        Player.showNumberOfPlayer();
        player1.cetak();
