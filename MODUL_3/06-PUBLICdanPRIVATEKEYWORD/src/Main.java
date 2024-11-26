@@ -30,13 +30,13 @@ private void kurangExp(){
 class Main {
     public static void main(String[] args) {
         // instansiasi objeck 
-        Player player1 = new Player("LY", 50,  100);
+        Player player1 = new Player("selki", 50,  100);
 
         // default
         // membaca data
         System.out.println(player1.nama);
         // MENULIS DATA
-        player1.nama = "LY";
+        player1.nama = "selki";
         System.out.println(player1.nama);
 
         // public
